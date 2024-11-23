@@ -31,9 +31,24 @@ Here’s what I work with to bring ideas to life:
 
 ## 📈 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedraza&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza&layout=compact&theme=radical" alt="Ahmed's Top Languages" />
+  <img src="https://img.shields.io/badge/Commits-1.2k-blue?style=for-the-badge" alt="Commits" />
+  <img src="https://img.shields.io/badge/Repositories-35-green?style=for-the-badge" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Stars-150-yellow?style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/badge/Followers-500+-brightgreen?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/Contributions-2.5k-purple?style=for-the-badge" alt="Contributions" />
 </p>
+
+---
+
+## 📊 Language Stats  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-40%25-orange?style=for-the-badge" alt="JavaScript Usage" />
+  <img src="https://img.shields.io/badge/Python-30%25-blue?style=for-the-badge" alt="Python Usage" />
+  <img src="https://img.shields.io/badge/HTML-10%25-red?style=for-the-badge" alt="HTML Usage" />
+  <img src="https://img.shields.io/badge/CSS-10%25-blueviolet?style=for-the-badge" alt="CSS Usage" />
+  <img src="https://img.shields.io/badge/Other-10%25-lightgrey?style=for-the-badge" alt="Other Usage" />
+</p>
+
 
 ---
 
